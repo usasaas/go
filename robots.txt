@@ -1,0 +1,5 @@
+
+    User-agent: *
+    Disallow: /private
+    Sitemap: https://usasaas.github.io/go/sitemap.xml
+    
